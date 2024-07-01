@@ -1,6 +1,6 @@
-Thanks for downloading this template!
-
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+I am anticipating in becoming a full stack 
+my skill are in the following tools  and technologies:
+1. JavaScript, ReactJS, NextJS
+2. embedded system technologies
+3. Prisma
+4. MomgoDB
